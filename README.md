@@ -1,6 +1,6 @@
 - I have been engaged in retail-consulting for ten years(2011-2021) in China, and I'm a freelancer now
 - I usually coding with Oracle PL/SQL,and Windows-cmd sometimes
-- Please mail to me (darkathena@qq.com) if you want to realizing some idea with Oracle PL/SQL
+- Please mail to me (darkathena@qq.com) if you want to realize some idea with Oracle PL/SQL
 - 
 <!---
 - 👋 Hi, I’m @Dark-Athena
