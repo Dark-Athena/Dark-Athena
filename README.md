@@ -1,6 +1,6 @@
 ```text
-  ____             _        _   _   _                      
- |  _ \  __ _ _ __| | __   / \ | |_| |__   ___ _ __   __ _ 
+  ____             _        _   _   _
+ |  _ \  __ _ _ __| | __   / \ | |_| |__   ___ _ __   __ _
  | | | |/ _` | '__| |/ /  / _ \| __| '_ \ / _ \ '_ \ / _` |
  | |_| | (_| | |  |   <  / ___ \ |_| | | |  __/ | | | (_| |
  |____/ \__,_|_|  |_|\_\/_/   \_\__|_| |_|\___|_| |_|\__,_|
@@ -9,23 +9,23 @@
 
 ### Hi there :wave: I'm DarkAthena
 
-数据库从业者，从 Oracle PL/SQL 入行，目前深耕国产数据库生态。
+A database practitioner who started with Oracle PL/SQL, now diving deep into the domestic database ecosystem.
 
-- :office: 数据库服务公司技术支持及咨询顾问（2022-now）
-- :books: 之前做了十年零售行业运维开发及咨询（2011-2021）
-- :wrench: 核心能力：存储过程开发与优化、数据库迁移、驱动/工具链开发
-- :globe_with_meridians: 个人博客：[darkathena.top](https://www.darkathena.top)
+- :office: Technical support & consulting at a database service company (2022-now)
+- :books: 10 years in retail operations, development & consulting (2011-2021)
+- :wrench: Core skills: stored procedure development & optimization, database migration, driver & toolchain development
+- :globe_with_meridians: Blog: [darkathena.top](https://www.darkathena.top)
 
 ---
 
 
-### :hammer_and_wrench: 技术栈
+### :hammer_and_wrench: Tech Stack
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**数据库**
+**Databases**
 <br>
 
 ![](https://img.shields.io/badge/Oracle-PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
@@ -39,7 +39,7 @@
 </td>
 <td valign="top" width="50%">
 
-**语言 & 工具**
+**Languages & Tools**
 <br>
 
 ![](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
