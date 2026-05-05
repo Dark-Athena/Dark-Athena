@@ -14,7 +14,7 @@
 - :office: 数据库服务公司驻场工程师（2022-now）
 - :books: 之前做了十年零售行业咨询（2011-2021）
 - :wrench: 核心能力：存储过程开发与优化、数据库迁移、驱动/工具链开发
-- :globe_with_meridians: 个人博客：[darkathena.top](https://www.darkathena.top)（228+ 篇技术文章）
+- :globe_with_meridians: 个人博客：[darkathena.top](https://www.darkathena.top)
 
 ---
 
@@ -73,7 +73,7 @@
 > 开源、可自定义的 PL/SQL 转 GaussDB 工具
 
 ![ANTLR](https://img.shields.io/badge/-ANTLR4-DD316D?style=flat)
-![Gitee Stars](https://img.shields.io/github/stars/Dark-Athena/PlsqlRewrite4GaussDB-web?style=flat)
+![Stars](https://img.shields.io/github/stars/Dark-Athena/PlsqlRewrite4GaussDB-web?style=flat)
 
 </td>
 </tr>
@@ -93,7 +93,6 @@
 > 浏览器本地运行的 PDF 发票合并工具，无需上传服务器
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Gitee Stars](https://img.shields.io/badge/Gitee-20★-FF2800?style=flat)
 
 </td>
 </tr>
@@ -113,60 +112,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/Dark-Athena/py-deepwiki2docsify?style=flat)
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary>:package: More Projects (click to expand)</summary>
-
-| Project | Description | Language |
-|---------|-------------|----------|
-| [sql_to_html-oracle](https://github.com/Dark-Athena/sql_to_html-oracle) | SQL 查询结果转换成 HTML 表格 | PLSQL |
-| [qrcode_plsql](https://github.com/Dark-Athena/qrcode_plsql) | 通过 PL/SQL 生成二维码（Oracle 21c） | PLSQL |
-| [AIO](https://github.com/Dark-Athena/AIO) | All-in-Oracle：第三方功能在数据库中的集合 | PLSQL |
-| [pivot_ext_pkg-oracle](https://github.com/Dark-Athena/pivot_ext_pkg-oracle) | 解决 PIVOT 子查询无法执行的问题 | PLSQL |
-| [sql_to_csv_xslt-oracle](https://github.com/Dark-Athena/sql_to_csv_xslt-oracle) | 通过 XML-XSLT 将 SQL 导出为 CSV | PLSQL |
-| [text_to_cmd-oracle](https://github.com/Dark-Athena/text_to_cmd-oracle) | 通过 Oracle 执行操作系统命令 | PLSQL |
-| [workweixinrobot-oracle](https://github.com/Dark-Athena/workweixinrobot-oracle) | Oracle PL/SQL 发送企业微信机器人消息 | PLSQL |
-| [PROCSENDEMAIL_SSL-oracle](https://github.com/Dark-Athena/PROCSENDEMAIL_SSL-oracle) | Oracle 中使用 PL/SQL 发送 SSL 加密邮件 | PLSQL |
-| [os_file_mgr_pkg-oracle](https://github.com/Dark-Athena/os_file_mgr_pkg-oracle) | Oracle 文件操作，解决 18c symlink 目录问题（Linux） | PLSQL |
-| [gaussdb-python](https://github.com/Dark-Athena/gaussdb-python) | 新一代 GaussDB Python 数据库适配器 | Python |
-| [gaussdb-python-async](https://github.com/Dark-Athena/gaussdb-python-async) | GaussDB 异步数据库客户端库（Python/asyncio） | Python |
-| [data-check-tool](https://github.com/Dark-Athena/data-check-tool) | Oracle 与 GaussDB 表级别数据一致性快速检查工具 | Java |
-| [r2dbc-yashandb](https://github.com/Dark-Athena/r2dbc-yashandb) | YaShanDB R2DBC 响应式驱动 | Java |
-| [split_data](https://github.com/Dark-Athena/split_data) | 多语言分片 SQL 生成工具（Python & Java） | Python |
-| [auto-github-hosts-py](https://github.com/Dark-Athena/auto-github-hosts-py) | 自动修改 hosts 中 GitHub 指向为最低延迟 IP | Python |
-| [ssk](https://github.com/Dark-Athena/ssk) | Windows & Linux SSH Key 初始化自动化脚本 | Shell |
-| [docker-oracledg](https://github.com/Dark-Athena/docker-oracledg) | Docker Compose 一键部署 Oracle 19c ADG 主备环境 | Shell |
-| [halo-bridge](https://github.com/Dark-Athena/halo-bridge) | 同步 Halo 2.x 博客文章到 CSDN / cnblogs / modb.pro | Python |
-| [NanoKVM-USB](https://github.com/Dark-Athena/NanoKVM-USB) | 指尖大小的 4K USB KVM | TypeScript |
-| [dbe](https://github.com/Dark-Athena/dbe) | GaussDB 兼容性伪包实现 | PLpgSQL |
-| [opengauss-oracle](https://github.com/Dark-Athena/opengauss-oracle) | openGauss Oracle 兼容函数/包 | PLpgSQL |
-
-</details>
-
----
-
-### :bar_chart: Blog Stats
-
-<table>
-<tr>
-<td>
-
-- :page_facing_up: **228+** 技术文章
-- :label: **19** 个标签
-- :file_folder: **17** 个分类
-
-</td>
-<td>
-
-**热门标签**
-`oracle` `gaussdb` `opengauss` `mogdb` `python` `AIO` `docker`
-
-**热门分类**
-ORACLE (68) · openGauss (60) · GaussDB · AIO · Python
 
 </td>
 </tr>
