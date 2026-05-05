@@ -11,8 +11,8 @@
 
 数据库从业者，从 Oracle PL/SQL 入行，目前深耕国产数据库生态。
 
-- :office: 数据库服务公司驻场工程师（2022-now）
-- :books: 之前做了十年零售行业咨询（2011-2021）
+- :office: 数据库服务公司技术支持及咨询顾问（2022-now）
+- :books: 之前做了十年零售行业运维开发及咨询（2011-2021）
 - :wrench: 核心能力：存储过程开发与优化、数据库迁移、驱动/工具链开发
 - :globe_with_meridians: 个人博客：[darkathena.top](https://www.darkathena.top)
 
